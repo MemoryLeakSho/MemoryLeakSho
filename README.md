@@ -18,7 +18,7 @@
 ما یادگیری رو برات لذت‌بخش و فان می‌کنیم! 🚀<br/>
 </p>
 <h1>
- سابسکرایب یادت نره!
+ <a href="https://www.youtube.com/@memoryleaksho?sub_confirmation=1"">سابسکرایب</a> یادت نره!
 </h1>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MemoryLeakSho&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
